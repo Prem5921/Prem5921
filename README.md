@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/prem-krishna-sapkota-b18148422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binayadhikari" height="30" width="40" /></a>
-<a href="https://www.facebook.com/binay.7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binayadhikari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aabiskar714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aabiskarsapkota" height="30" width="40" /></a>
 <a href="https://www.instagram.com/binayadh77/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binayadhikari" height="30" width="40" /></a>
 </p>
 <p align="center">
