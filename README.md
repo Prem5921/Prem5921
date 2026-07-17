@@ -61,7 +61,7 @@
 
 <p>🏆 My Github Trophies </p> 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdBinay" alt="adbinay" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prem5921" alt="prem5921" /></a> </p>
 
 ## Wakatime Stats..
 <p align="center"><img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/81e5fe4e-4a12-4e2a-a3e1-82f4bf20b2dc.svg" height="320" width="420">
@@ -71,6 +71,6 @@
 
 <img  src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
 <hr>
-If you wish to contact me please shoot a mail at  [BinayAdhikari](mailto:binayadh77@gmail.com)
+If you wish to contact me please shoot a mail at  [prem krishna sapkota](mailto:premkrishnasapkota15@gmail.com)
 
 ![](bottom_header.svg)
