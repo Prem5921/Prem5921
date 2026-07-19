@@ -10,8 +10,7 @@
 <p align="center">
    <a href="https://github.com/prem5921">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AdBinay?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://twitter.com/MeBinay_77">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 </p>
