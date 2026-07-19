@@ -41,11 +41,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdBinay&theme=algolia&hide_border=true" width="700"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdBinay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem5921&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem5921&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prem5921&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem5921&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdBinay&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prem5921&theme=github_dark&utcOffset=8)
 
 </div>
 
