@@ -44,7 +44,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdBinay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdBinay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem5921&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdBinay&theme=github_dark&utcOffset=8)
 
 </div>
